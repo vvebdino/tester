@@ -1,5 +1,0 @@
-
-one string
-
-
-hello
